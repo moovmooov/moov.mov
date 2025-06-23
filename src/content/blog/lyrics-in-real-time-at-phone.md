@@ -8,7 +8,7 @@ pubDate: "Jul 22 2025"
 
 I really liked to turn off all the lights, and just listen to the music. I always listen but doing something apart. I listen today with no distractions, just the song.
 
-<video src="../../../public/chilling.mp4" width="300" controls></video>
+<video src="../../assets/lyrics-at-real-time-at-my-phone/chilling.mp4" width="300" controls></video>
 
 But also, I wanted to see the lyrics to get the meaning of the song. The problem is, the integration of Official Youtube Music is a complete garbage at PC compared to Spotify. For example:
 
